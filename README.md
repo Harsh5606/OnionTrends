@@ -29,3 +29,10 @@ How It Works
 3. Model Training: Multiple models (Random Forest, LSTM, ARIMA) are trained and evaluated.
 4. Prediction: The best-performing model is used to predict onion prices for new input data.
 5. Visualization: Results are visualized to provide insights into price trends and buffer stock impact.
+
+Steps to run this project
+1. Clone the Repository:
+   * git clone https://github.com/yHarsh5606/OnionTrends.git
+2. Install the required libaries
+3. Now run the app.py
+   * streamlit run app.py
